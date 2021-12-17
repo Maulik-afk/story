@@ -3,3 +3,5 @@ ron Weasley
 Albus Dumbledor 
 Hemione Granger
 james potter
+hagrid
+lily potter
